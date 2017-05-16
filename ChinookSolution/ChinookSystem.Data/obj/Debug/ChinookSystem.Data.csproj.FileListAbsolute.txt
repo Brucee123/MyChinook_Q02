@@ -1,5 +1,5 @@
-C:\Users\hrd\Documents\GitHub\MyChinookQ02a\ChinookSolution\ChinookSystem.Data\bin\Debug\ChinookSystem.Data.dll
-C:\Users\hrd\Documents\GitHub\MyChinookQ02a\ChinookSolution\ChinookSystem.Data\bin\Debug\ChinookSystem.Data.pdb
-C:\Users\hrd\Documents\GitHub\MyChinookQ02a\ChinookSolution\ChinookSystem.Data\obj\Debug\ChinookSystem.Data.csprojResolveAssemblyReference.cache
-C:\Users\hrd\Documents\GitHub\MyChinookQ02a\ChinookSolution\ChinookSystem.Data\obj\Debug\ChinookSystem.Data.dll
-C:\Users\hrd\Documents\GitHub\MyChinookQ02a\ChinookSolution\ChinookSystem.Data\obj\Debug\ChinookSystem.Data.pdb
+C:\Users\hrd\Documents\GitHub\MyChinook_Q02\ChinookSolution\ChinookSystem.Data\bin\Debug\ChinookSystem.Data.dll
+C:\Users\hrd\Documents\GitHub\MyChinook_Q02\ChinookSolution\ChinookSystem.Data\bin\Debug\ChinookSystem.Data.pdb
+C:\Users\hrd\Documents\GitHub\MyChinook_Q02\ChinookSolution\ChinookSystem.Data\obj\Debug\ChinookSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\hrd\Documents\GitHub\MyChinook_Q02\ChinookSolution\ChinookSystem.Data\obj\Debug\ChinookSystem.Data.dll
+C:\Users\hrd\Documents\GitHub\MyChinook_Q02\ChinookSolution\ChinookSystem.Data\obj\Debug\ChinookSystem.Data.pdb

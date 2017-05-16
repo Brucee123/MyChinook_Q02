@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-#region Additional namespaces
+#region Additional Namespaces
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 #endregion
@@ -12,11 +12,13 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace ChinookSystem.Data.Entities
 {
     [Table("Artists")]
-    public  class Artist
+    public class Artist
     {
         [Key]
-        public int AritistId { get; set; }
-        public String Name { get; set; }
+        public int ArtistId { get; set; }
+        public string Name { get; set;}
+
+        //Navigation property used by LING
         public virtual ICollection<Album> Albums { get; set; }
     }
 }
